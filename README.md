@@ -1,4 +1,4 @@
-# domain-hierarchy-w-python-class
+# Domain hierarchy with python class
 A short script to demonstrate a convince way to define domain name hierarchy with python class.
 This project is for people who work with a lot of domain syntax like /root/amr/action/.. like in ROS and MQTT.
 If you tired of have to remember every domain, sub domain, here is a way to help you define it easy, robust, friendly with Pylance, code hint
