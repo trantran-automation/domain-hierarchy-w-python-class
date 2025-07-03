@@ -160,6 +160,7 @@ domain_1_1 = DomainTree.Root.Domain_1.Domain_1_1(domain_1_id="custom_name") # or
 custom_var_at_higher_level = DomainTree.Root(domain_1_id="custom_name") # you can also pass that attribute at higher level but still no error
 
 # now print them
+string_domain = str(domain_1_default)
 print("\n Print Domain:")
 print("tree",tree)
 print("root:",root)
